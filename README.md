@@ -1,4 +1,17 @@
-# Tillage-Mod-Links
+# modrinth-download
+
+https://modrinth.com/modpack/tillage
+
+# myzia-discord
+https://discord.com/invite/hD63mEQYte
+
+# myzia-website
+
+https://www.myzia.net/
+
+
+
+# Tillage-Mod-Credits-Below
 https://www.curseforge.com/minecraft/mc-mods/sanity-and-insanity
 
 https://modrinth.com/mod/epic-knights-shields-armor-and-weapons
