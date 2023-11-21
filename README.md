@@ -48,7 +48,7 @@ https://modrinth.com/mod/better-combat
 
 https://modrinth.com/mod/better-third-person
 
-https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty
+https://modrinth.com/mod/biomes-o-plenty
 
 https://modrinth.com/mod/caelu
 
@@ -237,7 +237,7 @@ https://modrinth.com/mod/seasonhud
 
 https://www.curseforge.com/minecraft/mc-mods/serene-seasons-fix
 
-https://www.curseforge.com/minecraft/mc-mods/serene-seasons
+https://modrinth.com/mod/serene-seasons
 
 https://modrinth.com/mod/shoulder-surfing-reloaded
 
