@@ -9,7 +9,15 @@ https://discord.com/invite/hD63mEQYte
 
 https://www.myzia.net/
 
+# texture-packs
 
+https://www.curseforge.com/minecraft/texture-packs/excalibur
+
+https://modrinth.com/resourcepack/snowiest-snow
+
+https://www.planetminecraft.com/texture-pack/cutting-edge-gui-1-19-4/
+
+https://modrinth.com/resourcepack/alternative-rain-sounds/version/1.19-1.19.2
 
 # Tillage-Mod-Credits-Below
 https://www.curseforge.com/minecraft/mc-mods/sanity-and-insanity
