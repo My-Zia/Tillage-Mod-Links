@@ -102,7 +102,6 @@ https://modrinth.com/mod/dynamictrees
 
 https://www.curseforge.com/minecraft/mc-mods/dtbop
 
-
 https://modrinth.com/mod/dynamictreesplus
 
 https://modrinth.com/mod/dynamic-music-updated
@@ -191,6 +190,8 @@ https://www.curseforge.com/minecraft/mc-mods/no-more-torch-spam
 
 https://modrinth.com/mod/not-enough-animations
 
+https://www.curseforge.com/minecraft/mc-mods/nocubes-sea-dwellers
+
 https://modrinth.com/mod/notes
 
 https://www.curseforge.com/minecraft/mc-mods/numismatic-overhaul-reforged
@@ -244,6 +245,8 @@ https://modrinth.com/mod/shoulder-surfing-reloaded
 https://modrinth.com/mod/small-ships
 
 https://modrinth.com/mod/smooth-boot-reloaded
+
+https://www.curseforge.com/minecraft/mc-mods/sanity-and-insanity
 
 https://modrinth.com/mod/snowy-spirit
 
